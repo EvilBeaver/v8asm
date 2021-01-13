@@ -10,7 +10,7 @@
 
 ### Через chocolatey
 
-choco install v8unpack --version 3.0.41 --source https://www.myget.org/F/onescript/api/v2
+`choco install v8unpack --version 3.0.42 --source https://www.myget.org/F/onescript/api/v2`
 
 ### Вручную
 
