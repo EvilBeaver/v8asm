@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5350fb7e-feda-434f-a5de-e831e32efb37">
+  <producedTypes>
+    <objectType typeId="c550bb1b-71fc-4e8b-99a7-6468cf7b7f58" valueTypeId="4495d28b-b0e1-4666-ba16-951d50811f52"/>
+  </producedTypes>
+  <name>Ассемблер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ассемблер</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="68cd54ae-7c5d-4904-accd-55d7eaf51954"/>
+  <defaultForm>ExternalDataProcessor.Ассемблер.Form.Редактор</defaultForm>
+  <forms uuid="28f245e9-906f-4b62-8408-bdac7221cb8a">
+    <name>Редактор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Редактор</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="251403a1-1635-4a19-a365-b22c7f787dea">
+    <name>ФлагиПеременной</name>
+    <synonym>
+      <key>ru</key>
+      <value>Флаги переменной</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="ec542152-3666-4e35-9a3d-a59663f38da3">
+    <name>ФлагиПроцедуры</name>
+    <synonym>
+      <key>ru</key>
+      <value>Флаги процедуры</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="f96798f8-3b48-436b-9c0c-9a6c09068c8d">
+    <name>ВводТекста</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ввод текста</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="22057e3c-3dda-4d10-ba05-4494096c7fea">
+    <name>Описание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Описание</value>
+    </synonym>
+  </templates>
+  <templates uuid="1f59e286-7705-49d0-bbe3-f8194f4332d9">
+    <name>МакетОбработки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет обработки</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
